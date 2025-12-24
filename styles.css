@@ -275,35 +275,35 @@ h1 {
 }
 
 .photo-1 {
-  background-image: url("./kiko.jpeg");
+  background-image: url("public/kiko.jpeg");
 }
 
 .photo-2 {
-  background-image: url("./we.JPG");
+  background-image: url("public/we.JPG");
 }
 
 .photo-3 {
-  background-image: url("./xoca.jpeg");
+  background-image: url("public/xoca.jpeg");
 }
 
 .photo-4 {
-  background-image: url("./natal.jpeg");
+  background-image: url("public/natal.jpeg");
 }
 
 .photo-5 {
-  background-image: url("./pitocos.jpeg");
+  background-image: url("public/pitocos.jpeg");
 }
 
 .photo-6 {
-  background-image: url("./joca.jpeg");
+  background-image: url("public/joca.jpeg");
 }
 
 .photo-7 {
-  background-image: url("./sleep.jpeg");
+  background-image: url("public/sleep.jpeg");
 }
 
 .photo-8 {
-  background-image: url("./we2.JPG");
+  background-image: url("public/we2.JPG");
 }
 
 .details {
